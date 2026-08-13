@@ -1,0 +1,36 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### .idea/  git-demo.iml不会参与 Git版本管理 ###
+### .gitignore 文件本身应该提交到 Git ###
+### 团队里的其他开发者也需要知道:哪些文件不应该提交 ###
+.idea/
+*.iml
