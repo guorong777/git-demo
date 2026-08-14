@@ -4,5 +4,6 @@ public class HelloGit {
         System.out.println("Git 第二个版本");
         System.out.println("这是在GitHub远程仓库修改的");
         System.out.println("使用IDEA操作Git");
+        System.out.println("测试Fetch");
     }
 }
