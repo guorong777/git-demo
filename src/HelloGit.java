@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("使用IDEA操作Git");
         System.out.println("测试Fetch");
         System.out.println("原项目的新版本");
+        System.out.println("dev分支新增功能");
     }
 }
