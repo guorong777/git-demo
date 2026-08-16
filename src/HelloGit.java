@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("原项目的新版本");
         System.out.println("dev分支新增功能");
         System.out.println("master分支新增内容");
+        System.out.println("dev 当前正在修改");
     }
 }
